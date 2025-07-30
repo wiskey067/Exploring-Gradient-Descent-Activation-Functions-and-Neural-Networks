@@ -1,0 +1,2 @@
+# Exploring-Gradient-Descent-Activation-Functions-and-Neural-Networks
+This repository contains an in-depth exploration of core neural network components and optimization techniques, implemented from scratch and with scikit-learn. It is divided into four key parts, focusing on gradient descent, activation functions, model training, and performance comparison across different network architectures and optimizers.
